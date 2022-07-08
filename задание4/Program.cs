@@ -5,6 +5,6 @@ for (count =1; count < n; count ++)
 {
      if (count % 2==0)
      {
-          Console.WriteLine($"{count}");
+          Console.Write($"{count} ,");
      }
 }
