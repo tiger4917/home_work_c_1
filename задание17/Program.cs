@@ -14,15 +14,10 @@ for (int i = 0; i < array.Length; i++)
     {
         max = array[i];
     }
-
     if (array[i] < min)
     {
         min = array[i];
     }
 }
-
-
 diff = max - min;
-
-
 Console.Write("] ->" + diff);
