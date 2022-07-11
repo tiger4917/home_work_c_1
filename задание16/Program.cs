@@ -7,7 +7,7 @@ for (int i = 0; i < array.Length; i++)
 {
     array[i] = new Random().Next(1, 100);
     Console.Write(array[i] + " ");
-    if (array[i] % 2 != 0)
+    if (i % 2 == 0)
     {
         sum += array[i];
     }
