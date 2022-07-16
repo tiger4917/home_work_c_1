@@ -1,0 +1,15 @@
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.csproj.AssemblyReference.cache
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.AssemblyInfoInputs.cache
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.AssemblyInfo.cs
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.csproj.CoreCompileInputs.cache
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\bin\Debug\net6.0\задание18.exe
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\bin\Debug\net6.0\задание18.deps.json
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\bin\Debug\net6.0\задание18.runtimeconfig.json
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\bin\Debug\net6.0\задание18.dll
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\bin\Debug\net6.0\задание18.pdb
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.dll
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\refint\задание18.dll
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.pdb
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\задание18.genruntimeconfig.cache
+C:\Users\kapko\Desktop\домашка\lessons\home_work\задание18\obj\Debug\net6.0\ref\задание18.dll
