@@ -1,15 +1,26 @@
-﻿//Пользователь вводит с клавиатуры M чисел.
-// Посчитайте, сколько чисел больше 0 ввёл пользователь.
-//0, 7, 8, -2, -2 -> 2
-//-1, -7, 567, 89, 223-> 3
-Console.WriteLine("Введите числа с клавиатуры через запятую: ");
-string nums = Console.ReadLine();
-int result =0;
-for (int i =0 ; i < nums.Length; i++)
+﻿/* Задайте двумерный массив из целых чисел. 
+Найдите среднее арифметическое элементов в каждом столбце.
+Например, задан массив:
+1 4 7 2
+5 9 2 3
+8 4 2 4
+Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
+*/
+int [,] array = new int [3,4];
+int [] columnSums = new int [4];
+for (int i =0; i < array.GetLength(0); i++)
 {
-    if (nums[i] ==",")
+    for (int j =0; j < array.GetLength(1); j++)
     {
-        result +=1; 
+        array[i,j]= new Random().Next(50);
+        columnSums[j]+= array[i,j];
+        Console.Write(array[i,j] + " ");
     }
-    if
+    Console.WriteLine();
 }
+    for (int i=0; i < columnSums.Length; i++)
+    {
+    Console.WriteLine("Ср. арифм. колонки № " + i + "=" + (double)(columnSums[i])/array.GetLength(0));
+
+    }   
+
