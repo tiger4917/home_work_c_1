@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kapko\\Desktop\\home work\\List\\task27\\task27.csproj",
+      "projectUniqueName": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task27\\task27.csproj",
       "projectName": "task27",
-      "projectPath": "C:\\Users\\kapko\\Desktop\\home work\\List\\task27\\task27.csproj",
+      "projectPath": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task27\\task27.csproj",
       "packagesPath": "C:\\Users\\kapko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kapko\\Desktop\\home work\\List\\task27\\obj\\",
+      "outputPath": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task27\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kapko\\AppData\\Roaming\\NuGet\\NuGet.Config"

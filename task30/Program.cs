@@ -15,6 +15,7 @@ int[] newArray = new int[row];
 int minRow;
 FillArray(array);
 PrintArray(array);
+Console.WriteLine();
 Find(array);
 
 int InputInt(string output)
@@ -53,7 +54,6 @@ void Find(int[,]array)
 
         {
             newArray[i] += array[i, j];
-
         }
         Console.Write(newArray[i] + " ");
     }
@@ -67,5 +67,6 @@ void Find(int[,]array)
             minRow = i;
         }
     }
-    Console.Write(minRow + 1);
+    Console.WriteLine();
+    Console.Write($"Номер строки с наименьшей суммой элементов: -> {minRow + 1}");
 }

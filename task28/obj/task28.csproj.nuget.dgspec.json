@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\List\\task28\\task28.csproj": {}
+    "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task28\\task28.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\List\\task28\\task28.csproj": {
+    "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task28\\task28.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\List\\task28\\task28.csproj",
+        "projectUniqueName": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task28\\task28.csproj",
         "projectName": "task28",
-        "projectPath": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\List\\task28\\task28.csproj",
+        "projectPath": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task28\\task28.csproj",
         "packagesPath": "C:\\Users\\kapko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\List\\task28\\obj\\",
+        "outputPath": "C:\\Users\\kapko\\Desktop\\geek brains\\home work\\home_work_c_1\\task28\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kapko\\AppData\\Roaming\\NuGet\\NuGet.Config"

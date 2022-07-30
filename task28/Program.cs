@@ -5,13 +5,20 @@
 int M = InputInt("Введите число М: ");
 int N = InputInt("Введите число N: ");
 
+PrintNumbers(N,M);
+
 int InputInt(string output)
 {
     Console.Write(output);
     return Convert.ToInt32(Console.ReadLine());
 }
-for (int i = M; i <= N; i++)
+
+void PrintNumbers( int N, int currentNumber)
 {
-    Console.Write(i + " ");
+    if (currentNumber <= N)
+    {
+       Console.Write(currentNumber + " ");
+	   PrintNumbers(N,currentNumber + 1 );
+    } 
 }
 
